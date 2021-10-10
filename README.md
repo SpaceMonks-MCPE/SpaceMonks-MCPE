@@ -1,8 +1,7 @@
-### Hi there 👋
-### 🔭 I’m currently working on a Discord bot.
-### 🌱 I’m currently learning Javascript.
-### 🤔 I’m looking for help with Discord bots.
-### 📫 You can reach me through Discord. SpaceMonks#6879
+### Hi there👋! I'm SpaceMonks and I like coding
+### 🌱 I’m currently learning Python.
+### 🤔 I’m looking for help with making Discord bots. 
+### 📫 You can reach me through Discord. My username and tag is SpaceMonks#6879
 ### 😄 Pronouns: He/Him
 
 
